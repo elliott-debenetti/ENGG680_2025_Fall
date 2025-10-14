@@ -1,4 +1,4 @@
-## Assignment 1: Using Git and Python for Collaborative Coding in Google Colab & Least Square Application
+## Assignment 1: Using Git and Python for Collaborative Coding in Google Colab & Least Squares Application
 
 ### Description
 
@@ -8,7 +8,7 @@ This assignment introduces fundamental tools and practices for digital engineeri
 
 Elliott De Benetti – UCID: 30301971
 
-Mamoonah Rasheed – UCID:
+Mamoonah Rasheed – UCID: 30273163
 
 Joel Navarrete – UCID:
 
